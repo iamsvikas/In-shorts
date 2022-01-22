@@ -12,13 +12,21 @@ const Footer = () => {
       </span>
       <hr style={{ width: "90%" }} />
       <div className="iconContainer">
-        <a href="https://github.com/iamsvikas" target="_blank">
+        <a href="https://github.com/iamsvikas" target="_blank" rel="noreferrer">
           <GitHubIcon />
         </a>
-        <a href="https://twitter.com/iamsvikas2" target="_blank">
+        <a
+          href="https://twitter.com/iamsvikas2"
+          target="_blank"
+          rel="noreferrer"
+        >
           <TwitterIcon />
         </a>
-        <a href="https://www.linkedin.com/in/iamsvikas/" target="_blank">
+        <a
+          href="https://www.linkedin.com/in/iamsvikas/"
+          target="_blank"
+          rel="noreferrer"
+        >
           <LinkedInIcon />
         </a>
       </div>
